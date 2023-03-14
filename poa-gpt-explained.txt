@@ -1,0 +1,91 @@
+- Project: A set of tasks with a defined scope, timeline, and resources.
+- Project requirements: A detailed description of what the project should achieve, including features, functionality, and constraints.
+- HTML code: The markup language used to structure and format web pages.
+- CSS code: The style sheet language used to define the layout and visual presentation of web pages.
+- JS code: JavaScript is a programming language that enables interactive and dynamic web content.
+- DOM manipulations: Changing or modifying elements of the Document Object Model (DOM) using JavaScript.
+- Frontend: The part of the web application that is visible to the user and runs in the user's browser.
+- Backend: The part of the web application that runs on the server and is responsible for handling requests from the client, data storage, and business logic.
+- Client: A computer or device that accesses a web application or service.
+- Server: A computer or device that provides services or resources to other devices on a network.
+- API: Application Programming Interface, a set of protocols, routines, and tools for building software and applications.
+- API documentation: A set of instructions and guidelines for using an API.
+- API testing: The process of verifying the functionality, reliability, and performance of an API.
+- Static file serving: Serving files directly from the server, without any processing or modification.
+- Template preparation and serving: Creating and serving HTML templates with dynamic content.
+- Server-side rendering: Rendering web pages on the server and sending the pre-rendered HTML to the client.
+- Client-side rendering: Rendering web pages on the client's browser using JavaScript.
+- Folders: A way to organize files and other folders within a file system.
+- Files: A unit of digital information stored on a computer.
+- Nesting: Placing files or folders within other files or folders.
+- Modules: A self-contained unit of code that can be imported and used in another program.
+- Dependencies: External modules or libraries that a program relies on to function.
+- Environment variables: Variables that are defined in the operating system or shell environment and can be accessed by programs running in that environment.
+- Global variables: Variables that are accessible from any part of a program.
+- Script variables: Variables that are defined and used within a specific script or program.
+- Functions: A self-contained unit of code that performs a specific task.
+- Classes: A template for creating objects that share the same structure and behavior.
+- Instances: A specific object created from a class.
+- Levels of abstraction: The process of hiding complexity by creating simpler abstractions or layers.
+- Data structures: A way of organizing and storing data in a computer program.
+- Data storage: The process of storing and retrieving data in a persistent way.
+- Data caching: Storing frequently accessed data in memory or a faster storage medium for faster access.
+- Services: A component of a system that performs a specific task or provides functionality to other components.
+- Service mocking: Simulating the behavior of a service in a test environment to test other components of the system.
+- Client emulation for server: Emulating the behavior of a client in a test environment to test the server-side components of a system.
+- Server emulation for client: Emulating the behavior of a server in a test environment to test the client-side components of a system.
+- Components: A self-contained unit of code that provides a specific functionality or feature.
+- Lines of code: The number of individual instructions or statements in a program.
+- Time to read files: The amount of time it takes for a program to read and process a file or files.
+- Client live reload: Automatically refreshing the client's browser when changes are made to the code.
+- Server live reload: Automatically restarting the server when changes are made to the code.
+- Server hot reload: Automatically reloading only the changed parts of the server code, without restarting the server.
+- Client hot reload: Automatically reloading only the changed parts of the client code, without refreshing the browser.
+- Websockets: A protocol that enables bidirectional communication between the client and the server in real-time.
+- Git repo: A repository for version control using the Git software.
+- Branches: A separate line of development within a Git repository.
+- Commit history: A record of all changes made to a Git repository.
+- Documentation: Written materials that describe a program or system, including API documentation, user guides, and technical manuals.
+- Project diagrams: Visual representations of the architecture, data flow, or other aspects of a program or system.
+- Task history: A record of all tasks performed during the development of a program or system.
+- Readme: A file that provides an overview of the project, including instructions for installation and usage.
+- Issues: A system for tracking bugs, feature requests, and other tasks or problems.
+- Accounts: User accounts for accessing the program or system.
+- Registration: The process of creating a new user account.
+- Guest user experience: The experience of using the program or system without logging in or registering.
+- Signed user experience: The experience of using the program or system as a registered user.
+- Sessions: A way of tracking user activity and maintaining user state across requests.
+- Authentication: The process of verifying a user's identity.
+- Authorization: The process of granting or denying access to resources based on a user's identity and permissions.
+- Tokens: A way of representing and transmitting authentication and authorization information.
+- Event logging: Recording events and actions taken within a program or system for analysis and debugging.
+- Error logging: Recording errors and exceptions that occur within a program or system for analysis and debugging.
+- Input validation: Validating and sanitizing user input to prevent security vulnerabilities and errors.
+- Forms: A way of collecting and submitting user input in a web application.
+- Architecture layers: The different components and layers of a program or system, such as the presentation layer, application layer, and data layer.
+- Visual layers: The different components and layers of the user interface, such as the layout, typography, and color scheme.
+- Pages: The individual screens or views of a web application.
+- URL usage: The structure and usage of URLs in a web application.
+- Loading strategy: The strategy for loading and rendering content in a web application.
+- Loading strategy: The way resources are loaded and cached within a web application or system, including lazy loading and prefetching.
+- Color palette: A collection of colors used within a system, including primary, secondary, and accent colors.
+- Color themes: A set of predefined color palettes or styles used to customize the visual presentation of a system.
+- Fonts: The typefaces used within a system, including serif, sans-serif, and display fonts.
+- Icons: Graphic symbols used within a system to represent concepts, features, or functionality.
+- Illustrations: Visual elements such as images or graphics used within a system to provide additional context or enhance the user experience.
+- Adaptive/Responsive design: Designing a system to automatically adjust its layout and features based on the device or screen size being used by the user.
+- User interface complexity level: The level of complexity or simplicity of the user interface, including the number of features, menus, and options available.
+- Keyboard/mouse/touchpad/touchscreen input: The various input methods used by users to interact with a system, including keyboard, mouse, touchpad, and touchscreen.
+- Online/offline usage: Designing a system to function properly in both online and offline environments, including the ability to cache data and synchronize changes when a connection is restored.
+- Local storage: A way of storing data within a user's browser or device for offline use or improved performance.
+- Cookies: Small text files stored on a user's device that contain data about their interactions with a system, including login credentials and session information.
+- Versioning: The process of tracking and managing changes to a system over time, including major and minor versions, feature releases, and bug fixes.
+- Proof-of-concept: A preliminary version of a system or feature used to test its feasibility or potential value.
+- Project enjoyment/frustration tracking: Keeping track of team members' satisfaction or frustration with the project in order to improve motivation and productivity.
+- Relevant researches: Conducting research on similar systems, user needs, and industry best practices to inform the design and development of a system.
+- Collaborators: Team members or external partners involved in the development and deployment of a system.
+- Data backups: Creating and maintaining copies of system data in case of data loss or system failure.
+- Deploy: The process of releasing and making a system available to users, including configuration, testing, and deployment to a production environment.
+- Testing: The process of evaluating a system or feature to ensure it meets its requirements and functions properly, including unit testing, integration testing, and user acceptance testing.
+- Telegram notifications: Using the messaging app Telegram to receive notifications and updates about the project.
+- Developer log: A record of developers' activities and progress within the project, including code changes, issues, and discussions.
